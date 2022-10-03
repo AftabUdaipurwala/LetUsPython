@@ -2,7 +2,7 @@
 
 This repository contains all the solutions to the book  
 
-**##"Let us Python by Yashwant Kanitkar" . **
+**Let us Python by Yashwant Kanitkar**
 
 
 

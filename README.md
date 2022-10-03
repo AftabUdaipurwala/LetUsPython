@@ -1,6 +1,8 @@
 # LetUsPython
 
-This repository contains all the solutions to the book ##"Let us Python by Yashwant Kanitkar" . 
+This repository contains all the solutions to the book  
+
+##"Let us Python by Yashwant Kanitkar" . 
 
 
 
